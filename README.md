@@ -4,7 +4,7 @@
 
 ---
 
-# [Item](https://github.com/MarcoPaoletta/Item-Shop/blob/main/Assets/Scripts/Item.cs)
+# [Item](https://github.com/MarcoPaoletta/Item-Shop/blob/main/Assets/Scripts/ItemShop/Item.cs)
 
 ## Variables
 <img src="README/Vars.png">
